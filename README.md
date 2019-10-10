@@ -1,4 +1,5 @@
 # vue_calc
+Using Vue and Vuetify to create a simple calculator
 
 ## Project setup
 ```
